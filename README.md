@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ethan</h1>
 <h3 align="center">An undergraduate data science student seeking to learn more about coding</h3>
 
-- 🌱 I’m currently learning **Data Structures, Data Visualization, and Advanced Python**
+- 🌱 I’m currently learning **Data Structures, Data Visualization, and Numpy**
 
 - 📫 How to reach me: **echoi090@ucr.edu**
 
