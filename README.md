@@ -1,5 +1,11 @@
-<h1 align="center">Hi, I'm Ethan!</h1>
-<h3 align="center">Currently an undergraduate data science student seeking to improve skills</h3>
+<h1 align="center">Hi, I'm Ethan</h1>
+<h3 align="center">An undergraduate data science student seeking to learn more about coding</h3>
+
+- 🌱 I’m currently learning **Data Structures, Data Visualization, and Advanced Python**
+
+- 📫 How to reach me **echoi090@ucr.edu**
+
+- ⚡ Fun fact **I was Radiant #34 in Valorant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
