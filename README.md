@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Data Structures, Data Visualization, and Advanced Python**
 
-- 📫 How to reach me **echoi090@ucr.edu**
+- 📫 How to reach me: **echoi090@ucr.edu**
 
-- ⚡ Fun fact **I was Radiant #34 in Valorant**
+- ⚡ Fun fact: **I was Radiant #34 in Valorant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
