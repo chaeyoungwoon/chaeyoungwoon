@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ethan</h1>
-<h3 align="center">An undergraduate data science student seeking to learn more about coding</h3>
+<h3 align="center">An undergraduate data science student seeking to learn more about agentic AI</h3>
 
 - 🌱 I’m currently learning: **Machine Learning, Data Visualization, and Python Libraries**
 
-- 📫 How to reach me: **echoi090@ucr.edu**
+- 📫 How to reach me: **eac002@ucsd.edu**
 
 - ⚡ Fun fact: **I was Radiant #34 in Valorant**
 
